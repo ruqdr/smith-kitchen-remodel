@@ -1,10 +1,10 @@
 # Materials List
 
 ## Countertops
-- Standard quartz countertops: $3,500
+- Premium granite countertops (Ubatuba color): $5,000
 
 ## Lighting
-- LED strip under-cabinet lighting: $400
+- Individual puck lights (model XYZ): $600
 
 ## Cabinets
 - Maple cabinets: $8,000
